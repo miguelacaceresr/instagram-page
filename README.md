@@ -1,2 +1,3 @@
-# instagram-page
-instagram clone page
+# instagram clone page 
+
+pagina de instagram diseñada como metodo de estudio 
